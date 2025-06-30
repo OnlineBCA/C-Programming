@@ -61,7 +61,7 @@ const float GRAVITY = 9.81;  // Constant value
 ```c
 int a = 5, b = 2;
 
-int sum = a + b;       // Addition
+int sum = a + b;       // Add
 int diff = a - b;      // Subtraction
 int prod = a * b;      // Multiplication
 int div = a / b;       // Integer Division
